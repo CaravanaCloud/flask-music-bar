@@ -1,0 +1,18 @@
+* {
+  font-family: "Ubuntu", sans-serif;
+}
+
+html,
+body {
+  background-color: #1c0433;
+}
+
+.site {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.site-container {
+  flex: 1;
+}
